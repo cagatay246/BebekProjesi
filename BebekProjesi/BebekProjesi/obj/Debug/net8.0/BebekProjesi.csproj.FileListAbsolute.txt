@@ -1,0 +1,14 @@
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\bin\Debug\net8.0\BebekProjesi.exe
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\bin\Debug\net8.0\BebekProjesi.deps.json
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\bin\Debug\net8.0\BebekProjesi.runtimeconfig.json
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\bin\Debug\net8.0\BebekProjesi.dll
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\bin\Debug\net8.0\BebekProjesi.pdb
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.AssemblyInfoInputs.cache
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.AssemblyInfo.cs
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.dll
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\refint\BebekProjesi.dll
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.pdb
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\BebekProjesi.genruntimeconfig.cache
+C:\Users\cagat\source\repos\BebekProjesi\BebekProjesi\obj\Debug\net8.0\ref\BebekProjesi.dll
